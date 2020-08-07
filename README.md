@@ -5,29 +5,29 @@
 ### - Tools/Interests 🔗
 
 <p align="center">
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg" height="32" alt="cplusplus" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="git" height="32" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg" height="32" alt="cplusplus" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/js.svg" alt="js" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="git" height="32" style="vertical-align:top; margin:6px 4px"></a>
   <a href="https://www.codechef.com/users/proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codechef.svg" alt="codechef" style="vertical-align:top; margin:6px 4px"></a>
   <a href="https://www.hackerrank.com/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px"></a>
-  <a><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px"></a>
 </p>
 
 ### - Languages 🔭
 <p align="center" >
-  <a><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical" alt="proxzima"/></a>
+  <a href="#"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical" alt="proxzima"/></a>
 </p>
 
 ### - Stats ⚡️
 <p align="center" >
-  <a><img  src="https://github-readme-stats.vercel.app/api?username=proxzima&show_icons=true&theme=radical" alt="proxzima"/></a>
+  <a href="#"><img  src="https://github-readme-stats.vercel.app/api?username=proxzima&show_icons=true&theme=radical" alt="proxzima"/></a>
 </p>
 <br/>
 
