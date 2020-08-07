@@ -1,0 +1,20 @@
+<svg width="47" height="20" viewBox="0 0 470 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Git">
+  <title>Git</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="470" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="258" height="200" fill="#E43" x="212"/>
+    <rect width="470" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="158" fill="#000" opacity="0.25">Git</text>
+    <text x="257" y="138" textLength="158">Git</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjU0NiAxMC45M0wxMy4wNjcuNDUyYTEuNTUgMS41NSAwIDAwLTIuMTg4IDBMOC43MDggMi42MjdsMi43NiAyLjc2YTEuODM4IDEuODM4IDAgMDEyLjMyNyAyLjM0MWwyLjY1OCAyLjY2YTEuODM4IDEuODM4IDAgMDExLjkgMy4wMzkgMS44MzcgMS44MzcgMCAwMS0yLjYgMCAxLjg0NiAxLjg0NiAwIDAxLS40MDQtMS45OTZMMTIuODYgOC45NTV2Ni41MjVjLjE3Ni4wODYuMzQyLjIwMy40ODguMzQ4YTEuODQ4IDEuODQ4IDAgMDEwIDIuNiAxLjg0NCAxLjg0NCAwIDAxLTIuNjA5IDAgMS44MzQgMS44MzQgMCAwMTAtMi41OThjLjE4Mi0uMTguMzg3LS4zMTYuNjA1LS40MDZWOC44MzVhMS44MzQgMS44MzQgMCAwMS0uOTk2LTIuNDFMNy42MzYgMy43LjQ1IDEwLjg4MWMtLjYuNjA1LS42IDEuNTg0IDAgMi4xODlsMTAuNDggMTAuNDc3YTEuNTQ1IDEuNTQ1IDAgMDAyLjE4NiAwbDEwLjQzLTEwLjQzYTEuNTQ0IDEuNTQ0IDAgMDAwLTIuMTg3Ii8+PC9zdmc+"/>
+</svg>
