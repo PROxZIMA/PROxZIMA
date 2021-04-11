@@ -45,5 +45,5 @@
   <a href="https://twitter.com/pro_x_zima"><img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/master/Resources/twitter.svg" alt="pro_x_zima" margin:6px 4px/></a>
   <a href="https://www.instagram.com/pro_x_zima/"><img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/master/Resources/instagram.svg" alt="pro_x_zima" margin:6px 4px/></a>
   <a href="https://www.reddit.com/user/PratikPingale"><img align="center" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/reddit.svg" alt="PratikPingale" margin:6px 4px/></a>
-  <a href="https://t.me/AU70M471C"><img align="center" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale" margin:6px 4px/></a>
+  <a href="https://t.me/PROxZIMA"><img align="center" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale" margin:6px 4px/></a>
 </p>
