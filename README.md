@@ -11,9 +11,7 @@ class PROxZIMA:
         return {
             '- 💼 I’m currently working for':    {'Convin.ai': 'https://convin.ai'},
             '- 🔭 I’m currently working on':     {'Prism':     'https://github.com/PROxZIMA/prism',
-                                                  'Sweet-Pop': 'https://github.com/PROxZIMA/Sweet-Pop',
-                                                  ...
-                                                 },
+                                                  'Sweet-Pop': 'https://github.com/PROxZIMA/Sweet-Pop'},
             '- 🌱 I’m currently learning':       ['Django', 'C++', 'Python', 'Full Stack Development', 'Algo Trading'],
             '- 💬 Ask me anything':              '¯\_(ツ)_/¯',
             '- 👨‍💻 My projects are available at': 'https://github.com/PROxZIMA?tab=repositories',
