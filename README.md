@@ -73,7 +73,7 @@ if __name__ == '__main__':
 
 ### - Stats ⚡️
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" width="48%" alt="proxzima"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" width="48%" alt="proxzima"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
 </p>
 <br>
 
