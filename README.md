@@ -15,8 +15,8 @@ class PROxZIMA:
       '- 💬 Ask me anything'          : '¯\_(ツ)_/¯',
       '- 👨‍💻 My projects available at' : 'https://github.com/PROxZIMA?tab=repositories',
       '- 📄 Know about my experiences': 'https://proxzima.ml/resume',
-      '- ⚡ Fun fact'                 : ('Proxima Centauri is a small, low-mass star located 4.2465 light-years '
-                                         'away from the Sun in the southern constellation of Centaurus.')
+      '- ⚡ Fun fact'                 : ('Proxima Centauri is a small, low-mass star located 4.2465 light-'
+                                         'years away from the Sun in the southern constellation of Centaurus.')
     }
 
 if __name__ == '__main__':
