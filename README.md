@@ -86,7 +86,7 @@ if __name__ == '__main__':
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" width="48%" alt="proxzima"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
 <br>
 
-## Find me around the web 🌎
+## - Find me around the web 🌎
 <p align="center">
   <a href="mailto:pratikbpingale9075@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
   <a href="https://linkedin.com/in/pratik-pingale"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
@@ -103,5 +103,4 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
-
 
