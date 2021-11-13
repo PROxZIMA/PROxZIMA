@@ -33,31 +33,44 @@ if __name__ == '__main__':
 <br>
   
 ### - Tools/Interests 🔗
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="Pop!_OS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"></a>
-  <a href="#"><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DJANGO REST"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
-  <a href="https://www.codechef.com/users/proxzima"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://www.hackerrank.com/PROxZIMA"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Codium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Codium"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
+<!-- <p align="center"> -->
+
+
+![Android](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg?v=4&s=60)
+
+![Android](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg?v=4&s=60)
+
+
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg" alt="Android"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arch.svg" alt="Arch Linux"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/popos.svg" alt="Pop!_OS"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg" alt="Firefox"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bitbucket.svg" alt="BitBucket"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/c.svg" alt="C"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg" alt="C++"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/kotlin.svg" alt="Kotlin"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bash.svg" alt="Bash"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html5.svg" alt="HTML5"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg" alt="CSS3"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/js.svg" alt="JavaScript"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg" alt="Numpy"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg" alt="Pandas"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/django.svg" alt="Django"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg" alt="Postman"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg" alt="Google Colab"></a>
+  <a href="https://www.qwiklabs.com/public_profiles/8ce32532-ca12-4a89-aed0-99c9316cae73"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cloud.svg" alt="Google Cloud"></a>
+  <a href="https://codepen.io/proxzima"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codepen.svg" alt="CodePen"></a>
+  <a href="https://www.hackerrank.com/PROxZIMA"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackkerrank.svg" alt="Hackerrank"></a>
+  <a href="https://www.codechef.com/users/proxzima"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codechef.svg" alt="CodeChef"></a>
+  <a href="https://leetcode.com/PROxZIMA/"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg" alt="LeetCode"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/alacritty.svg" alt="Alacritty"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/neovim.svg" alt="NeoVim"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg" alt="VS Codium"></a>
+  <a href="#"><img width="50" height="50" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="Android Studio"></a>
 </p>
 
 ### - Workspace 🖥️
@@ -70,7 +83,7 @@ if __name__ == '__main__':
 ### - Languages 🔭
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical&hide_border=true&layout=compact&custom_title=Languages%20I%20Use" alt="proxzima"/></a>
-</p>
+<!-- </p> -->
 
 ### - Stats ⚡️
 <p align="center" >
@@ -99,4 +112,5 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
+
 
