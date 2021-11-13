@@ -72,36 +72,30 @@ if __name__ == '__main__':
 
 ### - Workspace 🖥️
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA3 050"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 7 4800H"></a>
-  <a href="#"><img src="https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Asus"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/graphics.svg" alt="NVIDIA 3050"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/processor.svg" alt="AMD Ryzen 7 4800H"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/laptop.svg" alt="Asus"></a>
 </p>
 
 ### - Languages 🔭
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical&hide_border=true&layout=compact&custom_title=Languages%20I%20Use" alt="proxzima"/></a>
-<!-- </p> -->
+</p>
 
 ### - Stats ⚡️
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" width="48%" alt="proxzima"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" width="48%" alt="proxzima"/></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=radical&hide_border=true" width="48%" alt="My Streak"/></a>
 <br>
 
 ## Find me around the web 🌎
-<p>
-- 📫 Mail me <a href="mailto:pratikbpingale9075@gmail.com"><img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-</p>
-<br>
-
 <p align="center">
-  <a href="https://linkedin.com/in/pratik-pingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-pingale"/></a>
-  <a href="https://www.instagram.com/pro_x_zima/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pro_x_zima"/></a>
-  <a href="https://twitter.com/pro_x_zima"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pro_x_zima"/></a>
-  <a href="https://www.reddit.com/user/PratikPingale"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="PratikPingale"/></a>
-  <a href="https://discordapp.com/users/422274155509972992"><img src="https://img.shields.io/badge/PROxZIMA%237272-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="PROxZIMA#7272"/></a>
-  <a href="https://t.me/PROxZIMA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PratikPingale"/></a>
-  <a href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="https://img.shields.io/badge/Visual_Studio_Extensions-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="PROxZIMA"/></a>
+  <a href="mailto:pratikbpingale9075@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+  <a href="https://linkedin.com/in/pratik-pingale"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+  <a href="https://www.instagram.com/pro_x_zima/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima"/></a>
+  <a href="https://twitter.com/pro_x_zima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
+  <a href="https://www.reddit.com/user/PratikPingale"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/reddit.svg" alt="PratikPingale"/></a>
+  <a href="https://discordapp.com/users/422274155509972992"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/discord.svg" alt="PROxZIMA#7272"/></a>
+  <a href="https://t.me/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/telegram.svg" alt="PratikPingale"/></a>
+  <a href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/marketplace.svg" alt="PROxZIMA"/></a>
 </p>
 
 <p align="center">
