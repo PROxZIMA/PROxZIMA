@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
 ### - Languages 🔭
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical&hide_border=true&layout=compact&custom_title=Languages%20I%20Use" alt="proxzima"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=radical&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
 </p>
 
 ### - Stats ⚡️
