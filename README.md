@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Pingale 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." /> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
 </p>
 
 ```python
@@ -24,43 +24,15 @@ if __name__ == '__main__':
   pprint.pprint(PROxZIMA().__dict__)
 ```
 <br>
-  
+
 ### - Tools/Interests 🔗
 <p align="center">
 
-[![Android](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg)](#)
-[![Arch Linux](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arch.svg)](#)
-[![Pop!_OS](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/popos.svg)](#)
-[![Windows](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg)](#)
-[![Firefox](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg)](#)
-[![Git](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg)](#)
-[![GitHub](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg)](#)
-[![BitBucket](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bitbucket.svg)](#)
-[![Python](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg)](#)
-[![C](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/c.svg)](#)
-[![C++](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg)](#)
-[![Kotlin](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/kotlin.svg)](#)
-[![Bash](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bash.svg)](#)
-[![HTML5](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html5.svg)](#)
-[![CSS3](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg)](#)
-[![JavaScript](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/js.svg)](#)
-[![MySQL](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg)](#)
-[![PostgreSQL](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg)](#)
-[![Numpy](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg)](#)
-[![Pandas](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg)](#)
-[![Django](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/django.svg)](#)
-[![Flask](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/flask.svg)](#)
-[![Postman](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg)](#)
-[![Google Colab](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg)](#)
-[![Google Cloud](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cloud.svg)](https://www.qwiklabs.com/public_profiles/8ce32532-ca12-4a89-aed0-99c9316cae73)
-[![CodePen](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codepen.svg)](https://codepen.io/proxzima)
-[![Hackerrank](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackerrank.svg)](https://www.hackerrank.com/PROxZIMA)
-[![CodeChef](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codechef.svg)](https://www.codechef.com/users/proxzima)
-[![LeetCode](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg)](https://leetcode.com/PROxZIMA)
-[![Alacritty](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/alacritty.svg)](#)
-[![NeoVim](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/neovim.svg)](#)
-[![VS Codium](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg)](#)
-[![Android Studio](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg)](#)
+
+[![Arch Linux](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arch.svg)](#) | [![Pop!_OS](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/popos.svg)](#) | [![Windows](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg)](#) | [![Android](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg)](#) | [![Firefox](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg)](#) | [![Git](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg)](#) | [![GitHub](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg)](#) | [![BitBucket](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bitbucket.svg)](#) | [![Python](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg)](#) | [![C](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/c.svg)](#) | [![C++](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cplusplus.svg)](#) | [![Java](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/java.svg)](#) | [![Kotlin](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/kotlin.svg)](#) | [![Bash](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/bash.svg)](#) | [![HTML5](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html5.svg)](#)
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+[![CSS3](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg)](#) | [![JavaScript](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/javascript.svg)](#) | [![TypeScript](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/typescript.svg)](#) | [![MySQL](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg)](#) | [![PostgreSQL](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postgresql.svg)](#) | [![FireBase](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firebase.svg)](#) | [![Numpy](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg)](#) | [![Pandas](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg)](#) | [![Django](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/django.svg)](#) | [![Flask](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/flask.svg)](#) | [![React](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/react.svg)](#) | [![Google Colab](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg)](#) | [![Google Cloud](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/cloud.svg)](https://www.qwiklabs.com/public_profiles/8ce32532-ca12-4a89-aed0-99c9316cae73) | [![CodePen](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codepen.svg)](https://codepen.io/proxzima) | [![Hackerrank](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/hackerrank.svg)](https://www.hackerrank.com/PROxZIMA)
+[![CodeChef](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/codechef.svg)](https://www.codechef.com/users/proxzima) | [![LeetCode](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/leetcode.svg)](https://leetcode.com/PROxZIMA) | [![Postman](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg)](#) | [![Alacritty](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/alacritty.svg)](#) | [![NeoVim](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/neovim.svg)](#) | [![VS Codium](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/vscode.svg)](#) | [![Android Studio](https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg)](#)
 </p>
 
 ### - Workspace 🖥️
@@ -92,9 +64,7 @@ if __name__ == '__main__':
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PROxZIMA&label=Profile+Views&color=141321" alt="PROxZIMA" /> 
+  <img src="https://komarev.com/ghpvc/?username=PROxZIMA&label=Profile+Views&color=141321" alt="PROxZIMA" />
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
-
-
