@@ -55,12 +55,14 @@ if __name__ == '__main__':
 [![Flask](./src/tools/flask.svg)](#) &nbsp;&nbsp;
 [![Node.js](./src/tools/nodejs.svg)](#) &nbsp;&nbsp;
 [![React](./src/tools/react.svg)](#) &nbsp;&nbsp;
-[![Google Colab](./src/tools/colab.svg)](#) &nbsp;&nbsp; <sup><font size='7'><</font></sup> &nbsp;&nbsp;
+[![Google Colab](./src/tools/colab.svg)](#) &nbsp;&nbsp;
+[![Back Arrow](./src/tools/arrow_back.svg)](#) &nbsp;&nbsp;
 [![Google Cloud](./src/tools/cloud.svg)](https://www.qwiklabs.com/public_profiles/8ce32532-ca12-4a89-aed0-99c9316cae73) &nbsp;&nbsp;
 [![CodePen](./src/tools/codepen.svg)](https://codepen.io/proxzima) &nbsp;&nbsp;
 [![Hackerrank](./src/tools/hackerrank.svg)](https://www.hackerrank.com/PROxZIMA) &nbsp;&nbsp;
 [![CodeChef](./src/tools/codechef.svg)](https://www.codechef.com/users/proxzima) &nbsp;&nbsp;
-[![LeetCode](./src/tools/leetcode.svg)](https://leetcode.com/PROxZIMA) &nbsp;&nbsp; <sup><font size='7'>/></font></sup> &nbsp;&nbsp;
+[![LeetCode](./src/tools/leetcode.svg)](https://leetcode.com/PROxZIMA) &nbsp;&nbsp;
+[![Forward Arrow](./src/tools/arrow_forward.svg)](#) &nbsp;&nbsp;
 [![Postman](./src/tools/postman.svg)](#) &nbsp;&nbsp;
 [![Alacritty](./src/tools/alacritty.svg)](#) &nbsp;&nbsp;
 [![NeoVim](./src/tools/neovim.svg)](#) &nbsp;&nbsp;
