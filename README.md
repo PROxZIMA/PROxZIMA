@@ -51,6 +51,7 @@ if __name__ == '__main__':
 [![FireBase](./src/tools/firebase.svg)](#) &nbsp;&nbsp;
 [![Numpy](./src/tools/numpy.svg)](#) &nbsp;&nbsp;
 [![Pandas](./src/tools/pandas.svg)](#) &nbsp;&nbsp;
+[![Jupyter](./src/tools/jupyter.svg)](#) &nbsp;&nbsp;
 [![Django](./src/tools/django.svg)](#) &nbsp;&nbsp;
 [![Flask](./src/tools/flask.svg)](#) &nbsp;&nbsp;
 [![Node.js](./src/tools/nodejs.svg)](#) &nbsp;&nbsp;
