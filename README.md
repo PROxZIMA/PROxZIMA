@@ -63,6 +63,7 @@ if __name__ == '__main__':
 [![Hackerrank](./src/tools/hackerrank.svg)](https://www.hackerrank.com/PROxZIMA) &nbsp;&nbsp;
 [![CodeChef](./src/tools/codechef.svg)](https://www.codechef.com/users/proxzima) &nbsp;&nbsp;
 [![LeetCode](./src/tools/leetcode.svg)](https://leetcode.com/PROxZIMA) &nbsp;&nbsp;
+[![Figma](./src/tools/figma.svg)](https://www.figma.com/@proxzima) &nbsp;&nbsp;
 [![Forward Arrow](./src/tools/arrow_forward.svg)](#) &nbsp;&nbsp;
 [![Postman](./src/tools/postman.svg)](#) &nbsp;&nbsp;
 [![Alacritty](./src/tools/alacritty.svg)](#) &nbsp;&nbsp;
