@@ -94,7 +94,7 @@ if __name__ == '__main__':
   <a href="https://linkedin.com/in/pratik-pingale"><img src="./src/social/linkedin.svg" alt="pratik-pingale"/></a>
   <a href="https://www.instagram.com/pro_x_zima/"><img src="./src/social/instagram.svg" alt="pro_x_zima"/></a>
   <a href="https://twitter.com/pro_x_zima"><img src="./src/social/twitter.svg" alt="pro_x_zima"/></a>
-  <a href="https://www.reddit.com/user/PratikPingale"><img src="./src/social/reddit.svg" alt="PratikPingale"/></a>
+<!--   <a href="https://www.reddit.com/user/PratikPingale"><img src="./src/social/reddit.svg" alt="PratikPingale"/></a> -->
   <a href="https://discordapp.com/users/422274155509972992"><img src="./src/social/discord.svg" alt="PROxZIMA#7272"/></a>
   <a href="https://t.me/PROxZIMA"><img src="./src/social/telegram.svg" alt="PratikPingale"/></a>
   <a href="https://marketplace.visualstudio.com/publishers/PROxZIMA"><img src="./src/social/marketplace.svg" alt="PROxZIMA"/></a>
