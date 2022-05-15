@@ -28,7 +28,7 @@ if __name__ == '__main__':
 ### - Tools/Interests 🔗
 <p align="center">
 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arch.svg" alt="Arch Linux"></a> &nbsp;&nbsp;
+
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/arch.svg" alt="Arch Linux"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/popos.svg" alt="Pop!_OS"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a> &nbsp;&nbsp;
