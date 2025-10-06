@@ -94,10 +94,10 @@ if __name__ == '__main__':
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
 </table>
-<a align="center" target="_blank" href="https://github.com/PROxZIMA/ContributionManager">
-  <img src="https://c-hub-api.azurewebsites.net/contributions/svg?userId=6SqDR5hL6rSnVZwAycOX3BBFxjK2&year=2025&darkMode=true" alt="Contribution Activity">
-</adiv>
-<br>
+<p align="center">
+  <a target="_blank" href="https://github.com/PROxZIMA/ContributionManager"><img src="https://c-hub-api.azurewebsites.net/contributions/svg?userId=6SqDR5hL6rSnVZwAycOX3BBFxjK2&year=2025&darkMode=true" alt="Contribution Activity"></a>
+</p>
+<p align="right">Outside GitHub :)</p>
 
 ### - Find me around the web 🌎
 <p align="center">
@@ -116,6 +116,7 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
+
 
 
 
