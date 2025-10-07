@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Pratik Pingale 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn. Competitive Coding :p. Loves Open Source ❤️" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Cloud+Focused+Engineer+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn. Competitive Coding :p. Loves Open Source ❤️" />
 </p>
 
 ```python
@@ -82,11 +82,6 @@ if __name__ == '__main__':
   <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/laptop.svg" alt="Asus"></a>
 </p>
 
-### - Languages 🔭
-<p align="center" >
-  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
-</p>
-
 ### - Stats ⚡️
 <table style="border:none;margin:0 auto">
   <tr style="border:none;">
@@ -98,6 +93,11 @@ if __name__ == '__main__':
   <a target="_blank" href="https://github.com/PROxZIMA/ContributionManager"><img src="https://c-hub-api.azurewebsites.net/contributions/svg?userId=6SqDR5hL6rSnVZwAycOX3BBFxjK2&year=2025&darkMode=true" alt="Contribution Activity"></a>
 </p>
 <p align="right">Outside GitHub :)</p>
+
+### - Languages 🔭
+<p align="center" >
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxzima&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
+</p>
 
 ### - Find me around the web 🌎
 <p align="center">
@@ -116,6 +116,7 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
+
 
 
 
