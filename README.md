@@ -90,7 +90,7 @@ if __name__ == '__main__':
   </tr>
 </table>
 <p align="center">
-  <a target="_blank" href="https://github.com/PROxZIMA/ContributionManager"><img src="https://c-hub-api.azurewebsites.net/contributions/svg?userId=6SqDR5hL6rSnVZwAycOX3BBFxjK2&year=2025&darkMode=true" alt="Contribution Activity"></a>
+  <a target="_blank" href="https://github.com/PROxZIMA/ContributionManager"><img src="https://c-hub-api.azurewebsites.net/contributions/svg?userId=6SqDR5hL6rSnVZwAycOX3BBFxjK2&year=2025&darkMode=true?" alt="Contribution Activity"></a>
 </p>
 <p align="right">Outside GitHub :)</p>
 
@@ -116,6 +116,7 @@ if __name__ == '__main__':
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=43103163)
+
 
 
 
